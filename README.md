@@ -1,2 +1,3 @@
-# next-weather-app-b0cb
-Automated issue comment bot repository
+# Next Weather App B0Cb
+
+Automated issue comment bot repository.
